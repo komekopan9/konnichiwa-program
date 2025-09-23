@@ -2,11 +2,6 @@
 
 ## 訪問ありがとうございます！
 
-## About the English version（英語版について）
-The English version is available in the 'English' repository.（英語版は「英語」リポジトリにあります）
-
-↑Please be aware that this sentence was generated using a translation tool.（↑この文章は翻訳ツールを使って生成したものであることをご了承ください）
-
 ## 概要
 このプログラムは、コンソールに「こんにちは」と表示するシンプルなPythonプログラムです。
 
