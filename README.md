@@ -1,6 +1,6 @@
 # こんにちは表示プログラム
 
-## ダウンロードありがとうございます！
+## 訪問ありがとうございます！
 
 ## 概要
 このプログラムは、コンソールに「こんにちは」と表示するシンプルなPythonプログラムです。
@@ -29,6 +29,7 @@
 ## 更新日
 2025-09-24
 
-##　About the English version
+## About the English version
 An English version is planned to be created in the future.
-↑　Please understand that this text was generated using a translation tool.
+
+↑Please understand that this text was generated using a translation tool.
